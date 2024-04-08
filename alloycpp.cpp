@@ -1,5 +1,5 @@
-#include "Headers/AlloySystem.h"
-#include "Headers/Tools.h"
+#include "AlloySystem.h"
+#include "Tools.h"
 #include <windows.h>
                                                                                                                                                                                                                                                                                                                                                                           
 int main()
