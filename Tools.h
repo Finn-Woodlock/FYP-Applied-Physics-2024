@@ -1,4 +1,4 @@
-#include "../ThirdParty/eigen/Eigen/Eigen"
+#include <Eigen>
 #include <fstream>
 #include <iostream>
 #include <vector>
