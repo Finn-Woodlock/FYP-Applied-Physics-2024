@@ -1,5 +1,5 @@
-#include "Headers/IsingSystem.h"
-#include "Headers/Tools.h"
+#include "IsingSystem.h"
+#include "Tools.h"
 #include <windows.h>
 
 int main()
