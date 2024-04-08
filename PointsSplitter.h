@@ -1,5 +1,5 @@
 #include <cmath>
-#include "../ThirdParty/eigen/Eigen/Eigen"
+#include <Eigen>
 #include <tuple>
 #include <iostream>
 
